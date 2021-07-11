@@ -1,0 +1,42 @@
+﻿/* Provide sufficient contrast against white background */
+.th1 {
+    width: 30% !important; 
+}
+.table1 {
+    width: 30% !important;
+}
+.btn-table{
+    margin-left:10px;
+    border-radius: 50%;
+
+}
+
+a {
+    color: #0366d6;
+}
+
+code {
+    color: #E01A76;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.mrgnbtm {
+    margin-top: 20px;
+}
+
+.display-board {
+    width: 100%;
+    background-color: rgb(555, 200, 789);
+    padding: 5%;
+}
+
+.number {
+    color: red;
+    font-size: 75px;
+    text-align: center;
+}
